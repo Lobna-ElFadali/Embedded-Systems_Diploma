@@ -1,4 +1,3 @@
-# Unit 2: C Programming
 # Lesson 3: C Basic
 ## Lab 2: Max_of_3_Num
 ___
