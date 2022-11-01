@@ -5,7 +5,8 @@
  Created on  : 30 Oct 2022
  Author      : Lobna_ElFadali
 
- Description :
+ Description : Calculate the average degree of a scanned number
+               of students.
  ============================================================================
  */
 
