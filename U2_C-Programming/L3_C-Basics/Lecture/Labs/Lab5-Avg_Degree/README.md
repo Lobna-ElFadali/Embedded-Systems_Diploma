@@ -1,5 +1,5 @@
 # Lesson 3: C Basic
-## Lab 5: Min_of_2_Num
+## Lab 5: Avg_Degree
 ___
 > **Description:**
 
