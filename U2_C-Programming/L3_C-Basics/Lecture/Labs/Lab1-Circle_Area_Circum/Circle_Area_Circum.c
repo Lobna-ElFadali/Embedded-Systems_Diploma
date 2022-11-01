@@ -1,15 +1,17 @@
 /*
- * main.c
- *	Lab1: Circle Area or Circumference
- *  Created on: 29 Oct 2022
- *      Author: Lobna
- */
-/* User has to choose between calculating circle area or circle
- * circumference.
- * 	a for calculating area
- * 	c for calculating circumference
- * 	other letters ==> error message
- * followed by printing.
+ ============================================================================
+ File name   : Circle_Area_Circum.c
+ Project     : Lab1-Circle_Area_Circum
+ Created on  : 29 Oct 2022
+ Author      : Lobna_ElFadali
+
+ Description : User has to choose between calculating circle area
+ 	 	 	   or circle circumference.
+ 	 	 	   * a for calculating area
+ 	 	 	   * c for calculating circumference
+ 	 	 	   * other letters ==> error message
+ 	 	 	   followed by printing the answer.
+ ============================================================================
  */
 
 #include <stdio.h>
