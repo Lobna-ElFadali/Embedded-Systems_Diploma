@@ -4,7 +4,7 @@ ___
 
 > ### **Description:**
     Write C Program to Print a Sentence "C Programming".
-> **Console Output:**
+> ### **Console Output:**
 
 ![Ex1-Print_Sentence](https://drive.google.com/uc?id=16pERnF-6wI2IBW8u4v-XDY72T4lXOC-F)
 ___
