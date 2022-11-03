@@ -6,6 +6,6 @@ ___
     Write C Program to Print an Integer Entered by a User.
 > ### **Console Output:**
 
-![Ex1-Print_Sentence](https://drive.google.com/uc?id=1YNxkCsejYGE6DGK1KYVxhpmaRZSzTKuK)
+![Ex2: Print Int](https://drive.google.com/uc?id=1YNxkCsejYGE6DGK1KYVxhpmaRZSzTKuK)
 ___
 ___
