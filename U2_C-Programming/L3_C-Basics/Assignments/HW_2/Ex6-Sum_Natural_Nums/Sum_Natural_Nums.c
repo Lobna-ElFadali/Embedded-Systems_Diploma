@@ -20,7 +20,7 @@
 
 int main()
 {
-	int in, i, sum;
+	unsigned int in, i, sum;
 
 	printf("Enter an integer: ");
 	fflush(stdin);	fflush(stdout);
