@@ -4,7 +4,7 @@
  Project     : Ex3-Largest_Num
  Created on  : 4 Nov 2022
  Author      : Lobna_ElFadali
- 
+
  Description : 
  Write C program to find the largest number among 3 float numbers.
 
@@ -20,10 +20,23 @@
 
 int main()
 {
-	float in1, in2, in3;
-
 	printf("Enter three numbers: ");
 	fflush(stdin);	fflush(stdout);
+
+	/* Using for: */
+	int i;
+	float in, max;
+	for (i = 0, max = in; i < 3; i++)
+	{
+		scanf("%f", &in);
+		if (in >= max)
+			max = in;
+	}
+	printf("Largest number = %.2f", max);
+
+	/* using if: */
+	/*
+	float in1, in2, in3;
 	scanf("%f %f %f", &in1, &in2, &in3);
 
 	if ((in1 >= in2) && (in1 >= in3))
@@ -32,7 +45,7 @@ int main()
 		printf("Largest number = %.2f", in2);
 	else
 		printf("Largest number = %.2f", in3);
-
+	*/
 
 	return 0;
 }
