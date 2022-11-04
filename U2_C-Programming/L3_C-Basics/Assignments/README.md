@@ -20,14 +20,22 @@
 ---
 > ## HomeWork 2
 
-* [] **`Ex 1:`** [**Even or Odd**]( "")
-* [] **`Ex 2:`** [**Vowel or Consonant**]( "")
-* [] **`Ex 3:`** [**Largest Number**]( "")
-* [] **`Ex 4:`** [**Positive or Negative**]( "")
-* [] **`Ex 5:`** [**Alphabet or Not**]( "")
-* [] **`Ex 6:`** [**Sum Natural Numbers**]( "")
-* [] **`Ex 7:`** [**Factorial of Number**]( "")
-* [] **`Ex 8:`** [**Simple Calculator**]( "")   
+* [ ] **`Ex 1:`** [**Even or Odd**]( "")
+
+* [ ] **`Ex 2:`** [**Vowel or Consonant**]( "")
+
+* [ ] **`Ex 3:`** [**Largest Number**]( "")
+
+* [ ] **`Ex 4:`** [**Positive or Negative**]( "")
+
+* [ ] **`Ex 5:`** [**Alphabet or Not**]( "")
+
+* [ ] **`Ex 6:`** [**Sum Natural Numbers**]( "")
+
+* [ ] **`Ex 7:`** [**Factorial of Number**]( "")
+
+* [ ] **`Ex 8:`** [**Simple Calculator**]( "")  
+ 
 ---
 ---
 
