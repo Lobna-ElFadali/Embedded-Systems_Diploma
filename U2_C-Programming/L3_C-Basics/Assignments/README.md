@@ -20,7 +20,7 @@
 ---
 > ## HomeWork 2
 
-* [ ] **`Ex 1:`** [**Even or Odd**]( "")
+* [x] **`Ex 1:`** [**Even or Odd**]( "")
 
 * [ ] **`Ex 2:`** [**Vowel or Consonant**]( "")
 
