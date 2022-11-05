@@ -5,7 +5,7 @@ ___
 > ### **Description:**
 This program takes an integer from user. If user enters negative integer, error message is displayed Otherwise, the factorial of that number is displayed.
 Where:
-* Factorial (+n) = 1*2*3*..*n
+* Factorial (+n) = 1 * 2 * 3 * .. * n
 * Factorial (0) = 1
 * Factorial (-n) does not exist.
 
