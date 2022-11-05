@@ -20,21 +20,21 @@
 ---
 > ## HomeWork 2
 
-* [x] **`Ex 1:`** [**Even or Odd**]( "")
+* [x] **`Ex 1:`** [**Even or Odd**](https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex1-Even_or_Odd "https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex1-Even_or_Odd")
 
-* [ ] **`Ex 2:`** [**Vowel or Consonant**]( "")
+* [x] **`Ex 2:`** [**Vowel or Consonant**](https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex2-Vowel_or_Consonant "https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex2-Vowel_or_Consonant")
 
-* [ ] **`Ex 3:`** [**Largest Number**]( "")
+* [x] **`Ex 3:`** [**Largest Number**](https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex3-Largest_Num "https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex3-Largest_Num")
 
-* [ ] **`Ex 4:`** [**Positive or Negative**]( "")
+* [x] **`Ex 4:`** [**Positive or Negative**](https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex4-Pos_or_Neg "https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex4-Pos_or_Neg")
 
-* [ ] **`Ex 5:`** [**Alphabet or Not**]( "")
+* [x] **`Ex 5:`** [**Alphabet or Not**](https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex5-Alphabet_or_Not "https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex5-Alphabet_or_Not")
 
-* [ ] **`Ex 6:`** [**Sum Natural Numbers**]( "")
+* [x] **`Ex 6:`** [**Sum Natural Numbers**](https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex6-Sum_Natural_Nums "https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex6-Sum_Natural_Nums")
 
-* [ ] **`Ex 7:`** [**Factorial of Number**]( "")
+* [x] **`Ex 7:`** [**Factorial of Number**](https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex7-Factorial_of_Num "https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex7-Factorial_of_Num")
 
-* [ ] **`Ex 8:`** [**Simple Calculator**]( "")  
+* [x] **`Ex 8:`** [**Simple Calculator**](https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex8-Simple_Calculator "https://github.com/Lobna-ElFadali/Embedded-Systems_Diploma/tree/main/U2_C-Programming/L3_C-Basics/Assignments/HW_2/Ex8-Simple_Calculator")  
  
 ---
 ---
